@@ -1,8 +1,8 @@
 import React from 'react';
-import StackPanel from './components/stackPanel/StackPanelBasicConfigration';
+import Index from './components/implementation/Index';
 
 export default function App() {
   return (
-    <StackPanel />
+    <Index />
   );
 }
